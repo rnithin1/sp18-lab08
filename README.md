@@ -1,3 +1,6 @@
+Nithin Raghavan - 3033077257 - rnithin@berkeley.edu <br />
+Karsten Fonseca - 26428719 - kfonseca@berkeley.edu<br />
+
 # Inline Assembly
 
 Inline assembly is contained within normal solidity code and allows low-level access to the EVM.
